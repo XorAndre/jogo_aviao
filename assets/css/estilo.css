@@ -6,9 +6,10 @@
     margin: 0;
     padding: 0;
 }
-/*main*/
-.maain{
-    background-color: blue;
-    min-height: 100vh;
-    max-height: 100vh;
+.canvas{
+    transform: rotate(90deg);
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
 }
