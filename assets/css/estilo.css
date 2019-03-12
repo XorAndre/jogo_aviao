@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+    font: inherit;
+    font-size: 100%;
+    line-height: 1.6em;
+    margin: 0;
+    padding: 0;
+}
+/*main*/
+.maain{
+    background-color: blue;
+    min-height: 100vh;
+    max-height: 100vh;
+}
